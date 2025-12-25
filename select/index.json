@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "GHOST （Still Still Stellar ver.）",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-25T16:34:55.249892Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GHOST - Still Still Stellar ver.",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_GHOST_-_Still_Still_Stellar_ver._Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GHOST （Still Still Stellar ver.）",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/02_GHOST_(Still_Still_Stellar_ver.)_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GHOST (Still Still Stellar ver.)",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_GHOST_(Still_Still_Stellar_ver.)_星街すいせい.txt"
+    }
+  ]
+}
